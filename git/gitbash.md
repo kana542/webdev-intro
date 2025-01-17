@@ -49,7 +49,10 @@ Git Bash tuo Unix-tyylisen ympäristön Windows-koneellesi, mikä on erityisen h
 
 ### Git Bashin käynnistys ja navigointi
 
-Git Bash avautuu oletuksena C:-aseman juureen (esim. `C:\Users\KäyttäjäNimi`). Kansiosta toiseen siirtymiseen on kaksi tapaa:
+Git Bash avautuu oletuksena C:-aseman juureen (esim. `C:\Users\KäyttäjäNimi`). Jos suorittaisit heti komennon kuten `npm init`, katsoo se että projekti luodaan C:-asemalle. Komennot kuten `npm init` siis luovat tiedostot ja kansiot siihen hakemistoon, jossa komentotulkki sillä hetkellä avautuu/sijaitsee.
+
+komennot suoritetaan tietyissä kansioissa, on juuri siksi että tarvittavat tiedostot asennetaan siihen haluttuun kansioon.
+Kansiosta toiseen siirtymiseen on kaksi tapaa:
 
 1. **Navigointi komentoriviltä**  
    Sinun täytyy navigoida kansio kerrallaan oikeaan sijaintiin. Esimerkki: Jos luot kansion "developer" oletuskansioon "Tiedostot" (`C:\Users\KäyttäjäNimi\Documents`), kirjoita:
