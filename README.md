@@ -8,7 +8,7 @@ Lisätty myös hieman uusia asioita, varmasti puuttuu jotain oleellista/avainasi
 
 Tärkeintä on että jos et ymmärrä täysin jotain, tutki itse asiaa verkosta ja kokeile = aktiivista oppimista.
 
-# htmlcss-kansiossa vähän kertausta:
+## htmlcss-kansiossa vähän kertausta:
 
 1. HTML Perusteet
 2. Semanttinen HTML5
@@ -23,7 +23,7 @@ Tärkeintä on että jos et ymmärrä täysin jotain, tutki itse asiaa verkosta 
 11.   Käytännöt ja Työkalut
 12.   Saavutettavuus ja SEO
 
-# git-kansiossa gitistä, githubista ja gitbashista.
+## git-kansiossa gitistä, githubista ja gitbashista.
 
 1. Komentorivi
 2. Git
