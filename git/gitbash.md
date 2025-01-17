@@ -63,8 +63,9 @@ Git Bash avautuu oletuksena C:-aseman juureen (esim. `C:\Users\KäyttäjäNimi`)
    ```
 
 3. **Git Bashin pikakäynnistys oikeassa kansiossa**
-  
-   ![screenshot](https://github.com/user-attachments/assets/211192c0-5b60-4ebf-b3a6-ba9807355854)
+
+![screenshot](https://github.com/user-attachments/assets/bc450175-e3aa-4192-b3f4-4e63f7bbbe6e)
+
 
    - Navigoi haluamaasi kansioon  
    - Klikkaa kansiota hiiren oikealla painikkeella  
