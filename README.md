@@ -1,4 +1,5 @@
 # webdev-intro
+![aha](https://github.com/user-attachments/assets/872a0ff9-1c1b-4d91-8db3-a9ebba7e8fb9)
 
 ## laiskasti gptllä luotuja ohjeita
 
