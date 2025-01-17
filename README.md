@@ -3,7 +3,8 @@
 ## laiskasti gptllä luotuja ohjeita
 
 Vuonna nakki ja muusi krapulassa tehty ohje/selitykset kaverille, luotu chatgptn kanssa koska laiskuus 101.
-Lisätty myös hieman uusia asioita, varmasti puuttuu jotain oleellista/avainasioita mutta menkööt.
+Lisätty myös hieman uusia asioita, varmasti puuttuu jotain oleellista/avainasioita tai toistuu asioita mutta menkööt.
+
 Tärkeintä on että jos et ymmärrä täysin jotain, tutki itse asiaa verkosta ja kokeile = aktiivista oppimista.
 
 # htmlcss-kansiossa vähän kertausta:
