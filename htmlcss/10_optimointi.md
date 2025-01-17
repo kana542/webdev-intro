@@ -138,4 +138,37 @@ Kriittinen CSS on kuin ravintolan alkuruoka - se on ensimmäinen asia, jonka kä
 </head>
 ```
 
+## Suorituskyvyn mittaaminen ja työkalut
+
+Google Lighthouse on sisäänrakennettu Chrome-selaimen DevTools-työkaluihin ja se tarjoaa kattavan analyysin sivustosi suorituskyvystä. Se mittaa erityisesti:
+
+- **First Contentful Paint (FCP)** - Aika, joka kuluu ensimmäisen sisällön näyttämiseen
+- **Largest Contentful Paint (LCP)** - Sivun suurimman elementin latausaika
+- **Time to Interactive (TTI)** - Milloin sivu on täysin interaktiivinen
+- **Cumulative Layout Shift (CLS)** - Sivun elementtien liikkuminen latauksen aikana
+
+PageSpeed Insights tarjoaa samankaltaisen analyysin, mutta testaa sivustoasi myös mobiililaitteilla ja eri verkkoyhteyksillä.
+
+## Saavutettavuuden työkalut
+
+### WAVE (Web Accessibility Evaluation Tool)
+
+WAVE-työkalu ([wave.webaim.org](https://wave.webaim.org)) auttaa tunnistamaan saavutettavuusongelmia:
+
+- Kontrastisuhteiden tarkistus
+- Alt-tekstien puuttuminen
+- Otsikkohierarkian ongelmat
+- Lomakkeiden saavutettavuus
+
+## Värien hallinta
+
+### Väripalettityökalut
+
+- **ColorSpace**: Tekoälyä hyödyntävä työkalu, joka generoi väripaletteja yhden värin pohjalta
+- **Coolors.co**: Generoi harmonisia väripaletteja ja tarkista niiden saavutettavuus
+- **Adobe Color**: Ammattimainen työkalu väriharmonioiden luomiseen
+- **Paletton**: Luo monipuolisia väripaletteja eri väriteorioiden pohjalta
+
+
+
 Muista, että sivuston optimointi on jatkuva prosessi, ei kertaluontoinen tehtävä. Aivan kuten ravintolan täytyy jatkuvasti kehittää reseptejään ja palveluaan, nettisivujen suorituskykyä tulee seurata ja parantaa säännöllisesti. Aloita pienistä parannuksista ja rakenna niistä vähitellen tehokas kokonaisuus.
